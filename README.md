@@ -107,3 +107,5 @@ cashwise-agent/
 
 Built for hackathon demonstration.
 
+<img width="897" height="881" alt="CashWise – AI Cash Flow Agent - Google Chrome 12_14_2025 9_26_55 PM" src="https://github.com/user-attachments/assets/5510220a-c65b-4317-8bac-48c3cbfebbf7" />
+
